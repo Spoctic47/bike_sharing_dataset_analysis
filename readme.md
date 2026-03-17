@@ -32,7 +32,7 @@ The assignment is divided into three main phases:
   * Decision Tree Regressor
 * Evaluated using:
 
-  * R² Score
+  * R2 Score
   * RMSE
 
 ### 🔹 Phase 3: Classification
